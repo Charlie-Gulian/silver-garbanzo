@@ -1,7 +1,6 @@
 # A Bit Derivative
-## Original content for unoriginal ideas
-
-#### Welcome to our blog!
+## Original content from unoriginal ideas
+### Welcome to our blog!
 
 Hey everyone, we're Colin and Charlie. We graduated with statistics degrees from Johns Hopkins. This is our blog, A Bit Derivative, where we publish Bits (posts) with some level of regularity. We're doing this mostly to keep in touch and get our ideas down so we know that at least one person has read them.
 
