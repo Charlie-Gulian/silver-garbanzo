@@ -1,4 +1,4 @@
-# A Bit Derivative
+# *A Bit Derivative* Blog
 ## Original content from unoriginal ideas
 ### Welcome to our blog!
 
