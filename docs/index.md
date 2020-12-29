@@ -1,8 +1,14 @@
-### Hello, world!
+# A Bit Derivative
+## Original content for unoriginal ideas
 
-#### Welcome to our blog (this is in the docs folder)!
+#### Welcome to our blog!
 
-Our blog is called A Bit Derivative. This is because we reckon that none of the content that we create will be truly original, so our bits of information will tend to be derivative. It's also a math blog, and derivatives are basically the machinery behind modern science, so there ya go. 
+Hey everyone, we're Colin and Charlie. We graduated with statistics degrees from Johns Hopkins. This is our blog, A Bit Derivative, where we publish Bits (posts) with some level of regularity. We're doing this mostly to keep in touch and get our ideas down so we know that at least one person has read them.
+
+We chose this name for two reasons:
+
+1. Functional derivatives are the machinery of modern science and engineering. Almost everything with which we interact uses first-order information in some way to make it work or make it better. 
+2. We suspect that none of the content we create will be truly original, due to the vast talent of the human race. If you've seen our idea somewhere else before, please contact us and we will have our finest people look into it. 
 
 ### Our posts:
 
