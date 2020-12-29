@@ -1,4 +1,4 @@
-## *[Go Home]*(https://charlie-gulian.github.io/silver-garbanzo/)
+## [Go to our Homepage](https://charlie-gulian.github.io/silver-garbanzo/)
 
 ### Charlie's first blog post
 
