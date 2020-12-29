@@ -6,4 +6,4 @@ Our blog is called A Bit Derivative. This is because we reckon that none of the 
 
 ### Our posts:
 
-* [First Post](https://charlie-gulian.github.io/silver-garbanzo/blog-posts/first-post.md)
+* [First Post](https://charlie-gulian.github.io/silver-garbanzo/blog-posts/first-post)
