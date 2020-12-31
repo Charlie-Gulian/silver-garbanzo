@@ -1,7 +1,0 @@
-name: blogenv
-
-dependencies:
-  - numpy
-  - pandas
-  - matplotlib
-  - pandas
