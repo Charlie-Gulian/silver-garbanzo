@@ -4,7 +4,7 @@ The Buffetology-Hagstrom screener, in essence, lookings for growing companies wi
 
 1.  Must have an average 3-month volume, the average number of shares traded per day for the previous 3 months, greater than $100,000$.
 
-1. $EPS_0 > EPS_2 > EPS_5 > EPS_9$. This is a Buffetology-inspired criterion that the company should have consistent earnings growth (measured in earnings per share) over the past 10 years.
+1. $$EPS_0 > EPS_2 > EPS_5 > EPS_9$$. This is a Buffetology-inspired criterion that the company should have consistent earnings growth (measured in earnings per share) over the past 10 years.
 
 1.  ((  "Return on Equity [Now] " +  "Return on Equity [Y1] " +  "Return on Equity [Y2] " +  "Return on Equity [Y3] " +  "Return on Equity [Y4] " +  "Return on Equity [Y5] " +  "Return on Equity [Y6] " +  "Return on Equity [Y7] " +  "Return on Equity [Y8] " +  "Return on Equity [Y9] " )/10)>=15
 
