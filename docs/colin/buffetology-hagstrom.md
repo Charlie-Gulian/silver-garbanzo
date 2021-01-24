@@ -6,6 +6,10 @@ The Buffetology-Hagstrom screener, in essence, lookings for growing companies wi
 
 1. 
 
+\begin{math}
+EPS_0 > EPS_2 > EPS_5 > EPS_9
+\end{math}
+
 $$EPS_0 > EPS_2 > EPS_5 > EPS_9$$
 
 This is a Buffetology-inspired criterion that the company should have consistent earnings growth (measured in earnings per share) over the past 10 years.
