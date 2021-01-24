@@ -6,9 +6,9 @@ The Buffetology-Hagstrom screener, in essence, lookings for growing companies wi
 
 1. 
 
-\begin{math}
+\begin{equation}
 EPS_0 > EPS_2 > EPS_5 > EPS_9
-\end{math}
+\end{equation}
 
 $$EPS_0 > EPS_2 > EPS_5 > EPS_9$$
 
