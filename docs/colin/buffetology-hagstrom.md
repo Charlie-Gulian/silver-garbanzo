@@ -32,6 +32,8 @@ This criterion says that the price-to-cash flow, normalized by the 5-year averag
 
 The company's net margin minus the average of its industry.
 
+The net profit margin is equal to how much net income or profit is generated as a percentage of revenue. This includes taxes, and so is different from operating margin. 
+
 1. Operating Margin vs Industry >0
 
 The company's operating margin minus the average of its industry. 
